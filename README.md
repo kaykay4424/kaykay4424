@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krish
-- 👀 I’m interested in app dev and cyber security
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on any kind of project related to cpp or basic python
+- 👀 I’m interested in cyber security and data science
+- 🌱 I’m currently learning java dsa
+- 💞️ I’m looking to collaborate on any kind of project related to data science 
 - 📫 How to reach me: @krishkamboj09876@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing fun really confused af :p
